@@ -1,4 +1,5 @@
 <?php
-// перенаправляем сразу на список книг
+<!-- Test feature branch -->
+
 header("Location: kirja.php");
 exit;
